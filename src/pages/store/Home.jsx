@@ -105,19 +105,18 @@ export default function Home() {
 
         <div className="mx-auto grid min-h-[560px] max-w-7xl items-center gap-10 px-5 py-16 sm:px-8 lg:min-h-[620px] lg:grid-cols-2 lg:px-10">
           <div className="max-w-2xl text-white">
-            <span className="inline-flex items-center gap-2 rounded-full border border-[#f6c94a]/50 bg-white/10 px-4 py-2 text-xs font-semibold uppercase tracking-[0.22em] text-[#f6c94a]">
+            <span className="inline-flex items-center gap-2 rounded-full border border-[#f6c94a]/50 bg-white/10 px-4 py-2 text-xs font-semibold uppercase text-[#f6c94a]">
               <Leaf size={15} />
-              SONA SEED · PREMIUM MUSTARD OIL
+              Shreyoshi Foods · সোনালী সরিষার খাঁটি নির্যাস 
             </span>
 
             <h1 className="mt-7 font-serif text-4xl font-bold leading-tight sm:text-5xl lg:text-6xl">
-              Bring Home the
-              <span className="block text-[#f6c94a]">Golden Goodness.</span>
+              ঘরে নিয়ে আসুন
+              <span className="block text-[#f6c94a]">সোনালি উৎকর্ষ।</span>
             </h1>
 
             <p className="mt-6 max-w-lg text-base leading-8 text-white/80 sm:text-lg">
-              Discover mustard oil for your everyday cooking. Explore our
-              collection and find the right pack for your kitchen.
+             আপনার দৈনন্দিন রান্নায় সরিষার তেল ব্যবহার করুন। আমাদের সংগ্রহ দেখুন এবং আপনার রান্নাঘরের জন্য উপযুক্ত প্যাকটি বেছে নিন।
             </p>
 
             <div className="mt-8 flex flex-wrap items-center gap-4">

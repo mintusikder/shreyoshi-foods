@@ -92,10 +92,10 @@ export default function Navbar() {
 
             <span>
               <span className="block font-serif text-xl font-bold tracking-wide sm:text-2xl">
-                SONA SEED
+                Shreyoshi Foods
               </span>
-              <span className="hidden text-[9px] tracking-[0.25em] sm:block">
-                PREMIUM MUSTARD OIL
+              <span className="hidden text-[9px] sm:block">
+                সোনালী সরিষার খাঁটি নির্যাস 
               </span>
             </span>
           </Link>
